@@ -5,4 +5,4 @@ It's a Casino Number Guessing Game where 2 players just bet their amount and the
 
 output of the game :
 
-![output](https://user-images.githubusercontent.com/89250859/188067838-8e61426e-3575-4027-98ec-eda3fdafc5d7.png)
+![output](https://github.com/Abhinav0115/Guess-the-Number-Game/blob/34498f41d9912ad2de379452765ae2b774385850/Output.jpg)
